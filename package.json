@@ -1,0 +1,9 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "./app/main.js",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "gulp": "^3.9.1"
+  }
+}
